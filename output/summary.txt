@@ -1,0 +1,16 @@
+Traffic Flow Analysis Summary
+========================================
+
+Total Frames Processed: 9184
+Video Duration: 306.13 seconds
+
+Vehicle Counts by Lane:
+--------------------
+Lane 1: 242 vehicles
+Lane 2: 71 vehicles
+Lane 3: 29 vehicles
+--------------------
+Total Vehicles: 342
+
+Unique Vehicles Tracked: 510
+Total Detection Records: 342
